@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "561d913e489d35fa",
+        "id": "8a3914581917b5a9",
         "type": "tabs",
         "children": [
           {
-            "id": "d572abe035f29120",
+            "id": "ac91afd43361b407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Physik (Index).md",
+                "file": "Physik/Interferenz von einzelnen Photonen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Physik (Index).md",
+                "file": "Physik/Interferenz von einzelnen Photonen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Physik (Index).md",
+                "file": "Physik/Interferenz von einzelnen Photonen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Physik (Index).md"
+                "file": "Physik/Interferenz von einzelnen Photonen.md"
               }
             }
           }
@@ -147,20 +147,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c1cf91360cacfd2",
+  "active": "ac91afd43361b407",
   "lastOpenFiles": [
-    "gitignore",
-    "New Text Document.txt",
+    "2023-10-23.md",
     "Untitled.canvas",
-    "Physik/Physik (Index).md",
-    "Chemie/Uni stuff/Organic Chem (McMurry)/2.excalidraw.md",
-    "Physik/Quellen/1905_17_132-148.pdf",
-    "Physik/Quantenphysik (Subindex).md",
+    "Physik/Lichtquantenhypothese.md",
+    "Physik/Interferenz von einzelnen Photonen.md",
     "Physik/Wellenfunktion.md",
     "Physik/Hallwachs‐Versuch.md",
-    "Physik/Interferenz von einzelnen Photonen.md",
-    "Physik/Lichtquantenhypothese.md",
+    "Physik/Physik (Index).md",
+    "Physik/Quellen/1905_17_132-148.pdf",
     "Physik/Photoeffekt.md",
+    "Physik/Quellen/Pasted image 20231023201845.png",
+    "Physik/Quantenphysik (Subindex).md",
+    "Doppelspalt.md",
+    "gitignore",
+    "New Text Document.txt",
+    "Chemie/Uni stuff/Organic Chem (McMurry)/2.excalidraw.md",
     "Physik/Untitled",
     "Excalidraw/Drawing 2023-10-23 18.50.40.excalidraw.md",
     "Excalidraw",
@@ -170,7 +173,6 @@
     "Chemie/Uni stuff",
     "Clou.md",
     "Physik/Quellen/abitur-a-heft-2021.pdf",
-    "Unconfirmed 123540.crdownload",
-    "Spanisch"
+    "Unconfirmed 123540.crdownload"
   ]
 }
