@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unbestimmtheitsrelation.md",
+                "file": "Physik/Unbestimmtheitsrelation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unbestimmtheitsrelation.md",
+                "file": "Physik/Unbestimmtheitsrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unbestimmtheitsrelation.md",
+                "file": "Physik/Unbestimmtheitsrelation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unbestimmtheitsrelation.md"
+                "file": "Physik/Unbestimmtheitsrelation.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a200586cb96496e8",
+  "active": "9c1cf91360cacfd2",
   "lastOpenFiles": [
     "Physik/Quantenphysik (Subindex).md",
-    "Unbestimmtheitsrelation.md",
+    "Physik/Unbestimmtheitsrelation.md",
     "Physik/Materiewellen.md",
     "Physik/Quellen/Pasted image 20231024204821.png",
     "Physik/Interferenz von einzelnen Photonen.md",
