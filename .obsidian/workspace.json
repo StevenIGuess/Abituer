@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8a3914581917b5a9",
+        "id": "0d85d41f5b6b7c34",
         "type": "tabs",
         "children": [
           {
-            "id": "ac91afd43361b407",
+            "id": "a200586cb96496e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Interferenz von einzelnen Photonen.md",
+                "file": "Physik/De‐Broglie‐Wellenlänge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Interferenz von einzelnen Photonen.md",
+                "file": "Physik/De‐Broglie‐Wellenlänge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Interferenz von einzelnen Photonen.md",
+                "file": "Physik/De‐Broglie‐Wellenlänge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Interferenz von einzelnen Photonen.md"
+                "file": "Physik/De‐Broglie‐Wellenlänge.md"
               }
             }
           }
@@ -147,20 +147,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac91afd43361b407",
+  "active": "a200586cb96496e8",
   "lastOpenFiles": [
-    "2023-10-23.md",
-    "Untitled.canvas",
-    "Physik/Lichtquantenhypothese.md",
-    "Physik/Interferenz von einzelnen Photonen.md",
-    "Physik/Wellenfunktion.md",
-    "Physik/Hallwachs‐Versuch.md",
-    "Physik/Physik (Index).md",
-    "Physik/Quellen/1905_17_132-148.pdf",
-    "Physik/Photoeffekt.md",
-    "Physik/Quellen/Pasted image 20231023201845.png",
     "Physik/Quantenphysik (Subindex).md",
-    "Doppelspalt.md",
+    "Physik/Welcher‐Weg‐Probleme.md",
+    "Physik/Wellenfunktion.md",
+    "Physik/De‐Broglie‐Wellenlänge.md",
+    "Physik/Physik (Index).md",
+    "Physik/Quellen/Pasted image 20231024174224.png",
+    "Physik/Doppelspalt.md",
+    "Physik/Lichtquantenhypothese.md",
+    "Physik/Hallwachs‐Versuch.md",
+    "Physik/Interferenz.md",
+    "Physik/Interferenz von einzelnen Photonen.md",
+    "Physik/Quellen/Pasted image 20231024174935.png",
+    "Physik/Photoeffekt.md",
+    "Untitled.md",
+    "Physik/Quellen/Pasted image 20231024160724.png",
+    "README.md",
+    "Untitled.canvas",
+    "2023-10-23.md",
+    "Physik/Quellen/1905_17_132-148.pdf",
+    "Physik/Quellen/Pasted image 20231023201845.png",
     "gitignore",
     "New Text Document.txt",
     "Chemie/Uni stuff/Organic Chem (McMurry)/2.excalidraw.md",
