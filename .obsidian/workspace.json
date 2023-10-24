@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/De‐Broglie‐Wellenlänge.md",
+                "file": "Unbestimmtheitsrelation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/De‐Broglie‐Wellenlänge.md",
+                "file": "Unbestimmtheitsrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/De‐Broglie‐Wellenlänge.md",
+                "file": "Unbestimmtheitsrelation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/De‐Broglie‐Wellenlänge.md"
+                "file": "Unbestimmtheitsrelation.md"
               }
             }
           }
@@ -150,16 +150,18 @@
   "active": "a200586cb96496e8",
   "lastOpenFiles": [
     "Physik/Quantenphysik (Subindex).md",
+    "Unbestimmtheitsrelation.md",
+    "Physik/Materiewellen.md",
+    "Physik/Quellen/Pasted image 20231024204821.png",
+    "Physik/Interferenz von einzelnen Photonen.md",
     "Physik/Welcher‐Weg‐Probleme.md",
     "Physik/Wellenfunktion.md",
-    "Physik/De‐Broglie‐Wellenlänge.md",
     "Physik/Physik (Index).md",
     "Physik/Quellen/Pasted image 20231024174224.png",
     "Physik/Doppelspalt.md",
     "Physik/Lichtquantenhypothese.md",
     "Physik/Hallwachs‐Versuch.md",
     "Physik/Interferenz.md",
-    "Physik/Interferenz von einzelnen Photonen.md",
     "Physik/Quellen/Pasted image 20231024174935.png",
     "Physik/Photoeffekt.md",
     "Untitled.md",

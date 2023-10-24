@@ -5,7 +5,7 @@
 + [[Doppelspalt]]
 + [[Welcher‐Weg‐Probleme]]
 + [[Wellenfunktion]]
-+ [[De‐Broglie‐Wellenlänge]]
++ [[Materiewellen]]
 + [[Unbestimmtheitsrelation]]
 + [[linearer Potenzialtopf]] (E)
 + [[Rydberg-Formel]] (E)
