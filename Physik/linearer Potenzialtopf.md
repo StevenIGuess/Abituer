@@ -22,7 +22,7 @@ Definiert man nun $k = \frac{\sqrt{2mE}}{\hbar}$, lässt sich einfach erkennen:
 $$ \frac{d^2\psi}{dx^2} = -k^2\psi$$
 Die Lösung für diese Gleichung ist bekannt:
 $$\psi = A\sin(kx)+ B\cos(kx)$$
-Da $\psi$ jedoch stetig sein muss gilt $\psi (0) = 0$, muss $B = 0$, somit ergibt sich:
+Da $\psi$ jedoch stetig sein muss gilt $\psi (0) = 0$, deswegen gilt $B = 0$, somit ergibt sich:
 $$\psi = A\sin(kx)$$
 Die zweite Randbedingung besagt nun, dass $\psi(l) = 0$, damit dies erfüllt ist muss:
 $$kl = m, \,\,\,\, m\in \{\pm \pi, \pm2\pi,\pm3\pi,...\} $$
@@ -46,3 +46,4 @@ Somit ist für ein gegebenes $\Psi(x,0)$ die Lösung der Zeit-abhängigen Schrö
 $$  \Psi (x,t) = \sum_{n=1}^\infty \left( \sqrt\frac{2}{l} \int_0^a \sin \left(\frac{n \pi}{l}x\right) \Psi(x,0)dx\right)  \sqrt\frac{2}{l} \sin \left(\frac{n \pi}{l}x\right)e^{-i\frac{(n\pi)^2\hbar}{2ml^2}t}$$
 
 Please send help
+#quantenphysik 

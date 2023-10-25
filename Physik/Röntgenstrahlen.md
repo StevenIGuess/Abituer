@@ -1,0 +1,3 @@
+Röntgenstrahlen oder auch X-Rays sind ionisierende Elektromagnetische Wellen, diese entstehen entweder als Bremsstrahlung, hierbei wird ein negativ geladenes Teilchen von einem positiv geladenem Teilchen abgebremst, die hierbei verlorene Energie wird in Röntgenstrahlen umgewandelt. Röntgenstrahlen können auch durch Charakteristische Strahlung entstehen hierbei wird ein Atom Ionisiert, fällt nun ein Elektron einer höheren Schale auf eine niedrigere Schale so entsteht ein Röntgenstrahl ([[Rydberg-Formel]]). 
+
+#quantenphysik 

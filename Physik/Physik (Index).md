@@ -5,7 +5,7 @@ wählt davon _zwei_ Aufgaben aus und bearbeitet diese. " -[[abitur-a-heft-2021.p
 
 > TLDR: Drei Aufgaben, davon Zwei machen.
 
-+ ### [[Schwingungen und Wellen]]
++ ### [[Schwingungen und Wellen (Subindex)]]
 	+ [[Charakteristische Größen von Wellen]]
 	+ [[Lineares Kraftgesetz]]
 	+ [[Feder- und Faden-pendel]]
@@ -14,7 +14,7 @@ wählt davon _zwei_ Aufgaben aus und bearbeitet diese. " -[[abitur-a-heft-2021.p
 	+ [[Ausbreitung von Wellen]]
 	+ [[Überlagerung von Wellen]]
 	+ [[Interferenz]]
-	+ [[Wellencharakter des Lichts]]
+	+ [[Wellencharakter des Lichtes]]
 	+ [[Stehende Wellen]] (E)
 	+ [[Dopplereffekt]] (E)
 + ### [[Quantenphysik (Subindex)]]

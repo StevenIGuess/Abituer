@@ -9,6 +9,8 @@
 + [[Unbestimmtheitsrelation]]
 + [[linearer Potenzialtopf]] (E)
 + [[Rydberg-Formel]] (E)
++ [[Röntgenstrahlen]]
++ [[Frank-Hertz]]
 
 
 #quantenphysik 
