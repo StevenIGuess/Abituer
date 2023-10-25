@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Unbestimmtheitsrelation.md",
+                "file": "Physik/linearer Potenzialtopf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Unbestimmtheitsrelation.md",
+                "file": "Physik/linearer Potenzialtopf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Unbestimmtheitsrelation.md",
+                "file": "Physik/linearer Potenzialtopf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Unbestimmtheitsrelation.md"
+                "file": "Physik/linearer Potenzialtopf.md"
               }
             }
           }
@@ -147,21 +147,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c1cf91360cacfd2",
+  "active": "a200586cb96496e8",
   "lastOpenFiles": [
     "Physik/Quantenphysik (Subindex).md",
+    "Physik/linearer Potenzialtopf.md",
     "Physik/Unbestimmtheitsrelation.md",
-    "Physik/Materiewellen.md",
-    "Physik/Quellen/Pasted image 20231024204821.png",
-    "Physik/Interferenz von einzelnen Photonen.md",
-    "Physik/Welcher‐Weg‐Probleme.md",
     "Physik/Wellenfunktion.md",
+    "Physik/Doppelspalt.md",
+    "Physik/Materiewellen.md",
+    "Physik/Lichtquantenhypothese.md",
+    "Physik/Interferenz von einzelnen Photonen.md",
+    "Physik/Interferenz.md",
+    "Physik/Hallwachs‐Versuch.md",
+    "Physik/Quellen/Pasted image 20231024204821.png",
+    "Physik/Welcher‐Weg‐Probleme.md",
     "Physik/Physik (Index).md",
     "Physik/Quellen/Pasted image 20231024174224.png",
-    "Physik/Doppelspalt.md",
-    "Physik/Lichtquantenhypothese.md",
-    "Physik/Hallwachs‐Versuch.md",
-    "Physik/Interferenz.md",
     "Physik/Quellen/Pasted image 20231024174935.png",
     "Physik/Photoeffekt.md",
     "Untitled.md",
