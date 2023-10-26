@@ -10,7 +10,7 @@ wählt davon _zwei_ Aufgaben aus und bearbeitet diese. " -[[abitur-a-heft-2021.p
 	+ [[Lineares Kraftgesetz]]
 	+ [[Feder- und Faden-pendel]]
 	+ [[Arten von Wellen]]
-	+ [[Huygensches Prinzip]]
+	+ [[Huygenssches Prinzip]]
 	+ [[Ausbreitung von Wellen]]
 	+ [[Überlagerung von Wellen]]
 	+ [[Interferenz]]
@@ -29,7 +29,7 @@ wählt davon _zwei_ Aufgaben aus und bearbeitet diese. " -[[abitur-a-heft-2021.p
 	+ [[Unbestimmtheitsrelation]]
 	+ [[linearer Potenzialtopf]] (E)
 	+ [[Rydberg-Formel]] (E)
-+ ### [[Teilchen im elektromagnetischen Feld]]
++ ### [[Teilchen im elektromagnetischen Feld (Subindex)]]
 	+ [[Influenz]]
 	+ [[Coulombsche Gesetz]]
 	+ [[E-Felder]]

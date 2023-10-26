@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d85d41f5b6b7c34",
+        "id": "080c9ad2255ee453",
         "type": "tabs",
         "children": [
           {
-            "id": "b949c2c8ecd2340a",
+            "id": "0dd3b9a661a9afb5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "2b26558939df4643",
+            "id": "57b0167a0a3beed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Charakteristische Größen von Wellen.md",
+                "file": "Physik/Superpositionsprinzip.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,8 +56,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wellen",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,49 +152,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b949c2c8ecd2340a",
+  "active": "0dd3b9a661a9afb5",
   "lastOpenFiles": [
+    "Physik/Überlagerung von Wellen.md",
+    "Physik/Superpositionsprinzip.md",
     "Physik/Interferenz.md",
+    "Physik/Interferenz von einzelnen Photonen.md",
     "Physik/Physik (Index).md",
-    "Physik/Charakteristische Größen von Wellen.md",
+    "Physik/Dopplereffekt.md",
     "Physik/Schwingungen und Wellen (Subindex).md",
+    "Physik/Stehende Wellen.md",
+    "Physik/Reflexion.md",
+    "Physik/Wellencharakter des Lichtes.md",
+    "Physik/Quellen/Pasted image 20231026191530.png",
+    "Physik/Arten von Wellen.md",
+    "Physik/Quellen/Pasted image 20231026182927.png",
+    "Physik/Ausbreitung von Wellen.md",
+    "Physik/Quellen/Pasted image 20231026182912.png",
+    "Physik/Charakteristische Größen von Wellen.md",
+    "Physik/Huygenssches Prinzip.md",
+    "Physik/Feder- und Faden-pendel.md",
     "Physik/Quantenphysik (Subindex).md",
+    "Physik/Quellen/Pasted image 20231026164716.png",
+    "Physik/Quellen/Pasted image 20231026164708.png",
+    "Physik/Quellen/Pasted image 20231026162941.png",
+    "Physik/Quellen/Pasted image 20231026162706.png",
+    "Physik/Quellen/Pasted image 20231026160559.png",
+    "Physik/Quellen/Pasted image 20231026160103.png",
+    "Pasted image 20231026160045.png",
+    "Physik/Teilchen im elektromagnetischen Feld (Subindex).md",
+    "Physik/Lineares Kraftgesetz.md",
+    "Physik/Frank-Hertz.md",
+    "Physik/Unbestimmtheitsrelation.md",
+    "Physik/Rydberg-Formel.md",
+    "Physik/Röntgenstrahlen.md",
+    "Physik/Influenz.md",
     "Physik/Lichtquantenhypothese.md",
     "Physik/Wellenfunktion.md",
-    "Physik/Quellen/Pasted image 20231025180457.png",
-    "Physik/Frank-Hertz.md",
-    "Physik/Quellen/Pasted image 20231025180447.png",
-    "Physik/Röntgenstrahlen.md",
-    "Physik/Interferenz von einzelnen Photonen.md",
     "Physik/Hallwachs‐Versuch.md",
-    "Physik/Rydberg-Formel.md",
-    "Physik/Materiewellen.md",
-    "Physik/linearer Potenzialtopf.md",
-    "Physik/Unbestimmtheitsrelation.md",
-    "Physik/Photoeffekt.md",
-    "Physik/Doppelspalt.md",
-    "Physik/Quellen/Pasted image 20231024204821.png",
-    "Physik/Welcher‐Weg‐Probleme.md",
-    "Physik/Quellen/Pasted image 20231024174224.png",
-    "Physik/Quellen/Pasted image 20231024174935.png",
-    "Untitled.md",
-    "Physik/Quellen/Pasted image 20231024160724.png",
-    "README.md",
     "Untitled.canvas",
-    "2023-10-23.md",
     "Physik/Quellen/1905_17_132-148.pdf",
-    "Physik/Quellen/Pasted image 20231023201845.png",
     "gitignore",
     "New Text Document.txt",
-    "Chemie/Uni stuff/Organic Chem (McMurry)/2.excalidraw.md",
     "Physik/Untitled",
-    "Excalidraw/Drawing 2023-10-23 18.50.40.excalidraw.md",
     "Excalidraw",
     "Physik/Quellen",
-    "Chemie/Uni stuff/Organic Chem (McMurry)/Untitled.md",
     "Chemie/Uni stuff/Organic Chem (McMurry)",
     "Chemie/Uni stuff",
-    "Clou.md",
     "Physik/Quellen/abitur-a-heft-2021.pdf",
     "Unconfirmed 123540.crdownload"
   ]

@@ -2,10 +2,11 @@
 + [[Lineares Kraftgesetz]]
 + [[Feder- und Faden-pendel]]
 + [[Arten von Wellen]]
-+ [[Huygensches Prinzip]]
++ [[Huygenssches Prinzip]]
 + [[Ausbreitung von Wellen]]
 + [[Überlagerung von Wellen]]
 + [[Interferenz]]
++ [[Reflexion]]
 + [[Wellencharakter des Lichtes]]
 + [[Stehende Wellen]] (E)
 + [[Dopplereffekt]] (E)

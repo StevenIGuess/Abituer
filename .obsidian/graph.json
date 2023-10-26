@@ -18,7 +18,21 @@
       "query": "tag:#wellen  ",
       "color": {
         "a": 1,
-        "rgb": 5407200
+        "rgb": 4604299
+      }
+    },
+    {
+      "query": "tag:#eam  ",
+      "color": {
+        "a": 1,
+        "rgb": 906103
+      }
+    },
+    {
+      "query": "tag:#mathe  ",
+      "color": {
+        "a": 1,
+        "rgb": 14729554
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.27268599173601027,
-  "close": true
+  "scale": 0.3213363860503603,
+  "close": false
 }

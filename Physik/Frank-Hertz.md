@@ -3,3 +3,5 @@ Bei dem Frank-Hertz Versuch werden Elektronen mit einer Spannung beschleunigt, u
 ![[Pasted image 20231025180447.png]]
 
 ![[Pasted image 20231025180457.png]]
+
+#quantenphysik 
