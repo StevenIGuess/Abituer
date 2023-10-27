@@ -39,8 +39,6 @@ wählt davon _zwei_ Aufgaben aus und bearbeitet diese. " -[[abitur-a-heft-2021.p
 	+ [[Drei-Finger-Regel]]
 	+ [[Hall-Effekt]] (E)
 	+ [[Bahnkurven in homogenen Feldern]]
-	+ [[Nicht relativistische dinge]]
-
 
 Das A-heft ist von 2021, die Themen wurden aber mit 2024 abgeglichen lol.
 

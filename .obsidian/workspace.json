@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "080c9ad2255ee453",
+        "id": "46eee37b44f1281e",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd3b9a661a9afb5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "57b0167a0a3beed8",
+            "id": "89fed7e55236b9e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Superpositionsprinzip.md",
+                "file": "Physik/Arten von Wellen.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physik/Arten von Wellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physik/Arten von Wellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physik/Arten von Wellen.md"
+              }
             }
           }
         ]
@@ -152,14 +147,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0dd3b9a661a9afb5",
+  "active": "89fed7e55236b9e1",
   "lastOpenFiles": [
+    "Physik/Interferenz.md",
+    "Physik/Hallwachs‐Versuch.md",
+    "Elektroskop.md",
+    "Physik/Physik (Index).md",
+    "Nicht relativistische dinge.md",
+    "Physik/Teilchen im elektromagnetischen Feld (Subindex).md",
+    "Physik/Bahnkurven in homogenen Feldern.md",
+    "Physik/Hall-Effekt.md",
+    "Physik/Drei-Finger-Regel.md",
+    "Physik/Lorentz-Kraft.md",
+    "Physik/Magnetfelder.md",
+    "Physik/magnetische Flussdichte.md",
+    "Physik/E-Felder.md",
+    "Physik/Coulombsche Gesetz.md",
+    "Physik/Influenz.md",
+    "Physik/Quellen/Pasted image 20231027131928.png",
+    "Physik/Quellen/Pasted image 20231027131654.png",
+    "Physik/Quellen/Pasted image 20231027130902.png",
+    "Physik/Quellen/Pasted image 20231027130402.png",
+    "Physik/Quellen/Pasted image 20231027130330.png",
+    "Physik/Quellen/Pasted image 20231027124006.png",
+    "Physik/Superpositionsprinzip.md",
     "Physik/linearer Potenzialtopf.md",
     "Physik/Überlagerung von Wellen.md",
-    "Physik/Superpositionsprinzip.md",
-    "Physik/Interferenz.md",
     "Physik/Interferenz von einzelnen Photonen.md",
-    "Physik/Physik (Index).md",
     "Physik/Dopplereffekt.md",
     "Physik/Schwingungen und Wellen (Subindex).md",
     "Physik/Stehende Wellen.md",
@@ -170,26 +184,7 @@
     "Physik/Quellen/Pasted image 20231026182927.png",
     "Physik/Ausbreitung von Wellen.md",
     "Physik/Quellen/Pasted image 20231026182912.png",
-    "Physik/Charakteristische Größen von Wellen.md",
-    "Physik/Huygenssches Prinzip.md",
-    "Physik/Feder- und Faden-pendel.md",
-    "Physik/Quantenphysik (Subindex).md",
     "Physik/Quellen/Pasted image 20231026164716.png",
-    "Physik/Quellen/Pasted image 20231026164708.png",
-    "Physik/Quellen/Pasted image 20231026162941.png",
-    "Physik/Quellen/Pasted image 20231026162706.png",
-    "Physik/Quellen/Pasted image 20231026160559.png",
-    "Physik/Quellen/Pasted image 20231026160103.png",
-    "Pasted image 20231026160045.png",
-    "Physik/Teilchen im elektromagnetischen Feld (Subindex).md",
-    "Physik/Lineares Kraftgesetz.md",
-    "Physik/Frank-Hertz.md",
-    "Physik/Unbestimmtheitsrelation.md",
-    "Physik/Rydberg-Formel.md",
-    "Physik/Röntgenstrahlen.md",
-    "Physik/Influenz.md",
-    "Physik/Lichtquantenhypothese.md",
-    "Physik/Wellenfunktion.md",
     "Untitled.canvas",
     "Physik/Quellen/1905_17_132-148.pdf",
     "gitignore",
